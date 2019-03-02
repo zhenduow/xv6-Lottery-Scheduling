@@ -13,7 +13,7 @@ $ make
 $ make qemu-nox
 ```
 
-4. In xv6 system.
+**4. In xv6 system.**
 
   4.1. Use the following code to set tickets to a program.
 ```
