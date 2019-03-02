@@ -15,7 +15,7 @@ $ make qemu-nox
 
 4. In xv6 system. 
 
-  4.1. Use the following code to set tickets to a program.
+4.1.  Use the following code to set tickets to a program.
 ```
 tickets <num_of_tickets> <program_name>
 ```
