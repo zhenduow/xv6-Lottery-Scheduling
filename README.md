@@ -17,13 +17,13 @@ $ make qemu-nox
 ```
 tickets <num_of_tickets> <program_name>
 ```
-  For example,
+  *nested For example,
 ```
 tickets 10 spin &
 ```
 , where spin is simply a program that runs an infinite loop.
 
-Use the following command to check how many ticks each process has been assigned and dump the information to stdout.
+*nested Use the following command to check how many ticks each process has been assigned and dump the information to stdout.
 ```
 ps
 ```
