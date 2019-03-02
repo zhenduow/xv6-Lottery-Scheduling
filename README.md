@@ -3,12 +3,16 @@ A lottery scheduling code for xv6 system
 
 Usage:
 1. Download the xv6-3.tar file.
+
 2. Unzip the .tar file.
+
 3. Use the following commands to compile the xv6 system and run it.
+
 ```
 $ make
 $ make qemu-nox
 ```
+
 4. In xv6 system.
 
 4.1 Use the following code to set tickets to a program.
