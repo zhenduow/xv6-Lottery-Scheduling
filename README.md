@@ -29,7 +29,7 @@ $ make qemu-nox
       ```
       ps
       ```
-      Also, use the following command to get this information every 100 xv6 ticks.
+      Also, use the following command to get this information for every 100 xv6 ticks.
       ```
       ps -r
       ```
