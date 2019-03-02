@@ -17,22 +17,22 @@ $ make qemu-nox
 
     4.1.  Use the following code to set tickets to a program.
     
-```
-tickets <num_of_tickets> <program_name>
-```
-For example,
+            ```
+            tickets <num_of_tickets> <program_name>
+            ```
+      For example,
 
-```
-tickets 10 spin &
-```
-, where spin is simply a program that runs an infinite loop.
+            ```
+            tickets 10 spin &
+            ```
+      , where spin is simply a program that runs an infinite loop.
 
-   4.2. Use the following command to check how many ticks each process has been assigned and dump the information to stdout.
-
-```
-ps
-```
-   Also, use the following command to get this information every 100 xv6 ticks.
-```
-ps -r
-```
+      4.2. Use the following command to check how many ticks each process has been assigned and dump the information to stdout.
+        
+        ```
+        ps
+        ```
+      Also, use the following command to get this information every 100 xv6 ticks.
+        ```
+        ps -r
+        ```
